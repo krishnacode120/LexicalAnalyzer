@@ -176,8 +176,6 @@ It separates source code into tokens that can be processed by later compilation 
 
 **Krishnamoorthy T**
 
-Final Year IT Student
-
 Interested in AI, IoT, and Systems Programming.
 
 ## License
